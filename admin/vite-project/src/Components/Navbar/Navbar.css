@@ -1,0 +1,18 @@
+.navbar{
+    height: 200px;
+}
+.nav-profile{
+    width: 75px;
+}
+@media(max-width:800px)  {
+    .navbar{
+        padding: 15px 20px;
+
+    }
+    .nav-profile{
+        width: 60px;
+    }
+    .nav-logo{
+        width: 150px;
+    }
+}
